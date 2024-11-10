@@ -1,0 +1,10 @@
+{
+  "id": 0,
+  "eventName": "Interstellar IMAX",
+  "eventDate": "Jun 3, 2024, 5:30:00 AM",
+  "noOfTickets": 20,
+  "ticketRate": 1500.0,
+  "maxTicketCapacity": 15,
+  "ticketReleaseRate": 15,
+  "retrievalRate": 14
+}
