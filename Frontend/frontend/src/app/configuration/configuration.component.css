@@ -1,0 +1,7 @@
+.container-fluid{
+  max-width: 600px;
+}
+h1, h2{
+  align-self: center;
+
+}
