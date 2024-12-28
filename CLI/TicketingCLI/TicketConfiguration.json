@@ -1,0 +1,12 @@
+{
+  "noOfTickets": 60,
+  "maxTicketCapacity": 15,
+  "ticketRate": 5000.0,
+  "releaseRate": 10,
+  "retrievalRate": 11,
+  "noOfVendors": 2,
+  "assignedNoOfTickets": [
+    40,
+    20
+  ]
+}
