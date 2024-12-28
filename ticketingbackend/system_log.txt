@@ -1,0 +1,1102 @@
+[2024-12-23T19:48:14.298836400] - Ticketing For I Love Unatoo Has Started
+[2024-12-23T19:48:14.299837800] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.366530500] - Vendor 58 Submitted
+[2024-12-23T19:48:14.366530500] - Customer Submitted
+[2024-12-23T19:48:14.367508200] - Customer Submitted
+[2024-12-23T19:48:14.367508200] - Customer Submitted
+[2024-12-23T19:48:14.368578] - Customer Submitted
+[2024-12-23T19:48:14.368578] - Customer Submitted
+[2024-12-23T19:48:14.368578] - Customer Submitted
+[2024-12-23T19:48:14.369587700] - Customer Submitted
+[2024-12-23T19:48:14.369587700] - Customer Submitted
+[2024-12-23T19:48:14.369587700] - Customer Submitted
+[2024-12-23T19:48:14.369587700] - Customer Submitted
+[2024-12-23T19:48:14.370728200] - Customer Submitted
+[2024-12-23T19:48:14.370728200] - Customer Submitted
+[2024-12-23T19:48:14.370728200] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.370728200] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.370728200] - Customer Submitted
+[2024-12-23T19:48:14.371738100] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.371738100] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.372737400] - TicketPool is Empty. Customer is Waiting
+[2024-12-23T19:48:14.373738] - Customer Submitted
+[2024-12-23T19:48:14.375110500] - Customer Submitted
+[2024-12-23T19:48:14.377577100] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.377577100] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.379589300] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.380929900] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.382940100] - Customer Submitted
+[2024-12-23T19:48:14.382940100] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.383940200] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.383940200] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.385324300] - Customer Submitted
+[2024-12-23T19:48:14.386334800] - Customer Submitted
+[2024-12-23T19:48:14.386334800] - Customer Submitted
+[2024-12-23T19:48:14.387334400] - Customer Submitted
+[2024-12-23T19:48:14.390336900] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.390336900] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.392821800] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.392821800] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.395205600] - Customer Submitted
+[2024-12-23T19:48:14.395205600] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.396205100] - Customer Submitted
+[2024-12-23T19:48:14.397526500] - Customer Submitted
+[2024-12-23T19:48:14.397526500] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.399556100] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.399556100] - Customer Submitted
+[2024-12-23T19:48:14.402228400] - Customer Submitted
+[2024-12-23T19:48:14.403239200] - Customer Submitted
+[2024-12-23T19:48:14.403239200] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.403239200] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.404357700] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.406370200] - Customer Submitted
+[2024-12-23T19:48:14.406370200] - Customer Submitted
+[2024-12-23T19:48:14.407859200] - Customer Submitted
+[2024-12-23T19:48:14.407859200] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.407859200] - Customer Submitted
+[2024-12-23T19:48:14.410589900] - Vendor 59 Submitted
+[2024-12-23T19:48:14.414630400] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.417766900] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.417766900] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.418768] - Customer Submitted
+[2024-12-23T19:48:14.420770500] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.420770500] - Customer Submitted
+[2024-12-23T19:48:14.421770100] - Customer Submitted
+[2024-12-23T19:48:14.425046500] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.426240] - Customer Submitted
+[2024-12-23T19:48:14.426240] - Customer Submitted
+[2024-12-23T19:48:14.427583700] - Customer Submitted
+[2024-12-23T19:48:14.428594500] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.428594500] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.432012700] - Customer Submitted
+[2024-12-23T19:48:14.434032] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.434032] - Customer Submitted
+[2024-12-23T19:48:14.438162800] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.438162800] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.439331300] - Customer Submitted
+[2024-12-23T19:48:14.440345600] - Customer Submitted
+[2024-12-23T19:48:14.440345600] - Customer Submitted
+[2024-12-23T19:48:14.441344700] - Customer Submitted
+[2024-12-23T19:48:14.442344200] - Customer Submitted
+[2024-12-23T19:48:14.443343900] - Customer Submitted
+[2024-12-23T19:48:14.444344] - Customer Submitted
+[2024-12-23T19:48:14.446346700] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.446346700] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.446346700] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.447341900] - Customer Submitted
+[2024-12-23T19:48:14.451838800] - Customer Submitted
+[2024-12-23T19:48:14.452839700] - Customer Submitted
+[2024-12-23T19:48:14.452839700] - Customer Submitted
+[2024-12-23T19:48:14.453839100] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.456838600] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.457836800] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.458841] - Customer Submitted
+[2024-12-23T19:48:14.461265500] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.461265500] - Customer Submitted
+[2024-12-23T19:48:14.461265500] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.463711900] - Customer Submitted
+[2024-12-23T19:48:14.464722300] - Customer Submitted
+[2024-12-23T19:48:14.467806] - Customer Submitted
+[2024-12-23T19:48:14.468805900] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.468805900] - Customer Submitted
+[2024-12-23T19:48:14.471807300] - Customer Submitted
+[2024-12-23T19:48:14.473193900] - Customer Submitted
+[2024-12-23T19:48:14.473193900] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.474655100] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.475668] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.475668] - Customer Submitted
+[2024-12-23T19:48:14.477666500] - Customer Submitted
+[2024-12-23T19:48:14.479667900] - Customer Submitted
+[2024-12-23T19:48:14.480667500] - Vendor 60 Submitted
+[2024-12-23T19:48:14.481969900] - Customer Submitted
+[2024-12-23T19:48:14.481969900] - Customer Submitted
+[2024-12-23T19:48:14.483980800] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.483980800] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.483980800] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.483980800] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.484994700] - Customer Submitted
+[2024-12-23T19:48:14.484994700] - Generated Ticket: Ticket-1
+[2024-12-23T19:48:14.488022700] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.489019500] - Customer Submitted
+[2024-12-23T19:48:14.492091400] - Customer Submitted
+[2024-12-23T19:48:14.492091400] - Customer Submitted
+[2024-12-23T19:48:14.493337400] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.493337400] - Customer Submitted
+[2024-12-23T19:48:14.494349100] - Customer Submitted
+[2024-12-23T19:48:14.494349100] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.495347900] - Customer Submitted
+[2024-12-23T19:48:14.496349600] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.497455200] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.497455200] - Customer Submitted
+[2024-12-23T19:48:14.498491100] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.498491100] - Customer Submitted
+[2024-12-23T19:48:14.501920400] - Customer Submitted
+[2024-12-23T19:48:14.503378] - Customer Submitted
+[2024-12-23T19:48:14.504390600] - Customer Submitted
+[2024-12-23T19:48:14.504390600] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.505389200] - Customer Submitted
+[2024-12-23T19:48:14.506389300] - Ticket 1 Added for I Love Unatoo
+[2024-12-23T19:48:14.506389300] - Customer Submitted
+[2024-12-23T19:48:14.507388900] - Customer Submitted
+[2024-12-23T19:48:14.508388700] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.508388700] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.509793] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.509793] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.513108400] - Customer Submitted
+[2024-12-23T19:48:14.514613200] - Customer Submitted
+[2024-12-23T19:48:14.514613200] - Customer Submitted
+[2024-12-23T19:48:14.514613200] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.515622900] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.515622900] - Generated Ticket: Ticket-2
+[2024-12-23T19:48:14.518624400] - Customer Submitted
+[2024-12-23T19:48:14.519945900] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.519945900] - Customer Submitted
+[2024-12-23T19:48:14.519945900] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.520874] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.520874] - Customer Submitted
+[2024-12-23T19:48:14.522883900] - Customer Submitted
+[2024-12-23T19:48:14.524886] - Customer Submitted
+[2024-12-23T19:48:14.527396100] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.528397] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.528397] - Customer Submitted
+[2024-12-23T19:48:14.529395600] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.529395600] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.530397200] - Ticket 2 Added for I Love Unatoo
+[2024-12-23T19:48:14.531395400] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.531395400] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.531395400] - Customer Submitted
+[2024-12-23T19:48:14.535550800] - Customer Submitted
+[2024-12-23T19:48:14.535550800] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.535550800] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.535550800] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.535550800] - Customer Submitted
+[2024-12-23T19:48:14.536792300] - Generated Ticket: Ticket-3
+[2024-12-23T19:48:14.537804900] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.537804900] - Customer Submitted
+[2024-12-23T19:48:14.538921600] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.542661200] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.542661200] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.546675400] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.546675400] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.548793100] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.550219500] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.551743800] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.551743800] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.551743800] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.551743800] - Ticket 3 Added for I Love Unatoo
+[2024-12-23T19:48:14.556203200] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.557669400] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.557669400] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.559028600] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.560040] - Generated Ticket: Ticket-4
+[2024-12-23T19:48:14.560040] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.561039500] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.562301700] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.562301700] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.563314100] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.564313600] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.564313600] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.564313600] - Configuration Loaded Successfully
+[2024-12-23T19:48:14.571484600] - Ticket 4 Added for I Love Unatoo
+[2024-12-23T19:48:14.574975900] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.575974] - Generated Ticket: Ticket-5
+[2024-12-23T19:48:14.581975700] - Ticket 5 Added for I Love Unatoo
+[2024-12-23T19:48:14.584977] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.585975200] - Generated Ticket: Ticket-6
+[2024-12-23T19:48:14.592896] - Ticket 6 Added for I Love Unatoo
+[2024-12-23T19:48:14.596073400] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.597070400] - Generated Ticket: Ticket-7
+[2024-12-23T19:48:14.604332400] - Ticket 7 Added for I Love Unatoo
+[2024-12-23T19:48:14.606331700] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.607334800] - Generated Ticket: Ticket-8
+[2024-12-23T19:48:14.613335400] - Ticket 8 Added for I Love Unatoo
+[2024-12-23T19:48:14.617331200] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.617331200] - Generated Ticket: Ticket-9
+[2024-12-23T19:48:14.629335200] - Ticket 9 Added for I Love Unatoo
+[2024-12-23T19:48:14.634350500] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.634350500] - Generated Ticket: Ticket-10
+[2024-12-23T19:48:14.642987700] - Ticket 10 Added for I Love Unatoo
+[2024-12-23T19:48:14.647987700] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.647987700] - Generated Ticket: Ticket-11
+[2024-12-23T19:48:14.656240] - Ticket 11 Added for I Love Unatoo
+[2024-12-23T19:48:14.661236800] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.662234] - Generated Ticket: Ticket-12
+[2024-12-23T19:48:14.671234600] - Ticket 12 Added for I Love Unatoo
+[2024-12-23T19:48:14.674235700] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.674235700] - Generated Ticket: Ticket-13
+[2024-12-23T19:48:14.680246800] - Ticket 13 Added for I Love Unatoo
+[2024-12-23T19:48:14.683238100] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.683238100] - Generated Ticket: Ticket-14
+[2024-12-23T19:48:14.688234800] - Ticket 14 Added for I Love Unatoo
+[2024-12-23T19:48:14.692235200] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.692235200] - Generated Ticket: Ticket-15
+[2024-12-23T19:48:14.697241200] - Ticket 15 Added for I Love Unatoo
+[2024-12-23T19:48:14.699234200] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.699234200] - Generated Ticket: Ticket-16
+[2024-12-23T19:48:14.701237800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:14.701237800] - Current Pool Size: 15
+[2024-12-23T19:48:14.707236700] - Ticket: 1 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:14.707236700] - Purchased By Customer0
+[2024-12-23T19:48:14.708235900] - Revenue Earned: 1000.0
+[2024-12-23T19:48:14.713237900] - Ticket 16 Added for I Love Unatoo
+[2024-12-23T19:48:14.716298900] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:14.716298900] - Generated Ticket: Ticket-17
+[2024-12-23T19:48:14.717296400] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:14.717296400] - Current Pool Size: 15
+[2024-12-23T19:48:14.737310400] - Generated Ticket: Ticket-18
+[2024-12-23T19:48:14.738311500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:14.739309900] - Current Pool Size: 15
+[2024-12-23T19:48:14.756908700] - Generated Ticket: Ticket-19
+[2024-12-23T19:48:14.758925900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:14.758925900] - Current Pool Size: 15
+[2024-12-23T19:48:17.715016400] - Ticket: 2 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:17.715920200] - Purchased By Customer0
+[2024-12-23T19:48:17.715920200] - Revenue Earned: 2000.0
+[2024-12-23T19:48:17.719918600] - Ticket 17 Added for I Love Unatoo
+[2024-12-23T19:48:17.722033300] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:17.722926600] - Generated Ticket: Ticket-20
+[2024-12-23T19:48:17.723925400] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:17.723925400] - Current Pool Size: 15
+[2024-12-23T19:48:17.726412300] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:17.726412300] - Current Pool Size: 15
+[2024-12-23T19:48:17.727720600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:17.727720600] - Current Pool Size: 15
+[2024-12-23T19:48:20.730000600] - Ticket: 3 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:20.730000600] - Purchased By Customer0
+[2024-12-23T19:48:20.731034100] - Revenue Earned: 3000.0
+[2024-12-23T19:48:20.735003500] - Ticket 20 Added for I Love Unatoo
+[2024-12-23T19:48:20.737006200] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:20.737006200] - Generated Ticket: Ticket-21
+[2024-12-23T19:48:20.738008200] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:20.738008200] - Current Pool Size: 15
+[2024-12-23T19:48:20.739237800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:20.739744200] - Current Pool Size: 15
+[2024-12-23T19:48:20.740859400] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:20.740859400] - Current Pool Size: 15
+[2024-12-23T19:48:23.765630100] - Ticket: 4 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:23.765630100] - Purchased By Customer0
+[2024-12-23T19:48:23.766562400] - Revenue Earned: 4000.0
+[2024-12-23T19:48:23.772042] - Ticket 21 Added for I Love Unatoo
+[2024-12-23T19:48:23.774061300] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:23.774061300] - Generated Ticket: Ticket-22
+[2024-12-23T19:48:23.775106600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:23.776043200] - Current Pool Size: 15
+[2024-12-23T19:48:23.777052] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:23.778043500] - Current Pool Size: 15
+[2024-12-23T19:48:23.779733800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:23.779733800] - Current Pool Size: 15
+[2024-12-23T19:48:26.781023600] - Ticket: 5 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:26.782013100] - Purchased By Customer0
+[2024-12-23T19:48:26.782013100] - Revenue Earned: 5000.0
+[2024-12-23T19:48:26.787210100] - Ticket 22 Added for I Love Unatoo
+[2024-12-23T19:48:26.789920100] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:26.789920100] - Generated Ticket: Ticket-23
+[2024-12-23T19:48:26.791927700] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:26.792928100] - Current Pool Size: 15
+[2024-12-23T19:48:26.794327900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:26.794327900] - Current Pool Size: 15
+[2024-12-23T19:48:26.795748700] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:26.795748700] - Current Pool Size: 15
+[2024-12-23T19:48:29.793190200] - Ticket: 6 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:29.793190200] - Purchased By Customer0
+[2024-12-23T19:48:29.794189900] - Revenue Earned: 6000.0
+[2024-12-23T19:48:29.799191] - Ticket 23 Added for I Love Unatoo
+[2024-12-23T19:48:29.801204] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:29.802190100] - Generated Ticket: Ticket-24
+[2024-12-23T19:48:29.802190100] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:29.802190100] - Current Pool Size: 15
+[2024-12-23T19:48:29.803188800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:29.803188800] - Current Pool Size: 15
+[2024-12-23T19:48:29.803188800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:29.804662800] - Current Pool Size: 15
+[2024-12-23T19:48:32.812877800] - Ticket: 7 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:32.813863500] - Purchased By Customer0
+[2024-12-23T19:48:32.813863500] - Revenue Earned: 7000.0
+[2024-12-23T19:48:32.818978700] - Ticket 24 Added for I Love Unatoo
+[2024-12-23T19:48:32.820845400] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:32.820845400] - Generated Ticket: Ticket-25
+[2024-12-23T19:48:32.821933300] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:32.821933300] - Current Pool Size: 15
+[2024-12-23T19:48:32.822860] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:32.822860] - Current Pool Size: 15
+[2024-12-23T19:48:32.823848800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:32.823848800] - Current Pool Size: 15
+[2024-12-23T19:48:35.824347900] - Ticket: 8 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:35.824347900] - Purchased By Customer0
+[2024-12-23T19:48:35.824347900] - Revenue Earned: 8000.0
+[2024-12-23T19:48:35.829606300] - Ticket 25 Added for I Love Unatoo
+[2024-12-23T19:48:35.831640600] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:35.831640600] - Generated Ticket: Ticket-26
+[2024-12-23T19:48:35.832614300] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:35.832614300] - Current Pool Size: 15
+[2024-12-23T19:48:35.833658100] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:35.833658100] - Current Pool Size: 15
+[2024-12-23T19:48:35.834693500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:35.834693500] - Current Pool Size: 15
+[2024-12-23T19:48:38.841611600] - Ticket: 9 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:38.841611600] - Purchased By Customer0
+[2024-12-23T19:48:38.842512900] - Revenue Earned: 9000.0
+[2024-12-23T19:48:38.847607500] - Ticket 26 Added for I Love Unatoo
+[2024-12-23T19:48:38.851135400] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:38.851135400] - Generated Ticket: Ticket-27
+[2024-12-23T19:48:38.853136500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:38.853136500] - Current Pool Size: 15
+[2024-12-23T19:48:38.855075400] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:38.855075400] - Current Pool Size: 15
+[2024-12-23T19:48:38.856056] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:38.857049500] - Current Pool Size: 15
+[2024-12-23T19:48:41.858426800] - Ticket: 10 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:41.858426800] - Purchased By Customer0
+[2024-12-23T19:48:41.858426800] - Revenue Earned: 10000.0
+[2024-12-23T19:48:41.866182400] - Ticket 27 Added for I Love Unatoo
+[2024-12-23T19:48:41.868585] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:41.868585] - Generated Ticket: Ticket-28
+[2024-12-23T19:48:41.869823600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:41.869823600] - Current Pool Size: 15
+[2024-12-23T19:48:41.870829300] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:41.870829300] - Current Pool Size: 15
+[2024-12-23T19:48:41.871831] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:41.871831] - Current Pool Size: 15
+[2024-12-23T19:48:44.876624300] - Ticket: 11 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:44.877622200] - Purchased By Customer0
+[2024-12-23T19:48:44.877622200] - Revenue Earned: 11000.0
+[2024-12-23T19:48:44.883081100] - Ticket 28 Added for I Love Unatoo
+[2024-12-23T19:48:44.885132800] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:44.885132800] - Generated Ticket: Ticket-29
+[2024-12-23T19:48:44.886132600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:44.886132600] - Current Pool Size: 15
+[2024-12-23T19:48:44.888248700] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:44.888248700] - Current Pool Size: 15
+[2024-12-23T19:48:44.889158600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:44.890267200] - Current Pool Size: 15
+[2024-12-23T19:48:47.898898200] - Ticket: 12 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:47.899893900] - Purchased By Customer0
+[2024-12-23T19:48:47.899893900] - Revenue Earned: 12000.0
+[2024-12-23T19:48:47.907423] - Ticket 29 Added for I Love Unatoo
+[2024-12-23T19:48:47.910521600] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:47.910521600] - Generated Ticket: Ticket-30
+[2024-12-23T19:48:47.911440700] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:47.911440700] - Current Pool Size: 15
+[2024-12-23T19:48:47.912435900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:47.912435900] - Current Pool Size: 15
+[2024-12-23T19:48:47.913438300] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:47.913438300] - Current Pool Size: 15
+[2024-12-23T19:48:50.908943800] - Ticket: 13 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:50.910557200] - Purchased By Customer0
+[2024-12-23T19:48:50.910557200] - Revenue Earned: 13000.0
+[2024-12-23T19:48:50.916595500] - Ticket 30 Added for I Love Unatoo
+[2024-12-23T19:48:50.919690300] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:50.920566800] - Generated Ticket: Ticket-31
+[2024-12-23T19:48:50.921564900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:50.921564900] - Current Pool Size: 15
+[2024-12-23T19:48:50.922564900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:50.922564900] - Current Pool Size: 15
+[2024-12-23T19:48:50.923882600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:50.923882600] - Current Pool Size: 15
+[2024-12-23T19:48:53.916752900] - Ticket: 14 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:53.916752900] - Purchased By Customer0
+[2024-12-23T19:48:53.917743800] - Revenue Earned: 14000.0
+[2024-12-23T19:48:53.923747500] - Ticket 31 Added for I Love Unatoo
+[2024-12-23T19:48:53.925744400] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:53.926745800] - Generated Ticket: Ticket-32
+[2024-12-23T19:48:53.927743800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:53.927743800] - Current Pool Size: 15
+[2024-12-23T19:48:53.928746900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:53.928746900] - Current Pool Size: 15
+[2024-12-23T19:48:53.929749100] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:53.929749100] - Current Pool Size: 15
+[2024-12-23T19:48:56.927584200] - Ticket: 15 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:56.927584200] - Purchased By Customer0
+[2024-12-23T19:48:56.927584200] - Revenue Earned: 15000.0
+[2024-12-23T19:48:56.932800900] - Ticket 32 Added for I Love Unatoo
+[2024-12-23T19:48:56.934802900] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:56.934802900] - Generated Ticket: Ticket-33
+[2024-12-23T19:48:56.935805200] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:56.935805200] - Current Pool Size: 15
+[2024-12-23T19:48:56.936800800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:56.936800800] - Current Pool Size: 15
+[2024-12-23T19:48:56.937808100] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:56.938898200] - Current Pool Size: 15
+[2024-12-23T19:48:59.933044900] - Ticket: 16 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:48:59.933044900] - Purchased By Customer0
+[2024-12-23T19:48:59.933044900] - Revenue Earned: 16000.0
+[2024-12-23T19:48:59.938045900] - Ticket 33 Added for I Love Unatoo
+[2024-12-23T19:48:59.939432200] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:48:59.939432200] - Generated Ticket: Ticket-34
+[2024-12-23T19:48:59.940442800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:59.940442800] - Current Pool Size: 15
+[2024-12-23T19:48:59.941480] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:59.941480] - Current Pool Size: 15
+[2024-12-23T19:48:59.941480] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:48:59.941480] - Current Pool Size: 15
+[2024-12-23T19:49:02.943036700] - Ticket: 17 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:02.944138200] - Purchased By Customer0
+[2024-12-23T19:49:02.944138200] - Revenue Earned: 17000.0
+[2024-12-23T19:49:02.948037600] - Ticket 34 Added for I Love Unatoo
+[2024-12-23T19:49:02.951039900] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:49:02.951039900] - Generated Ticket: Ticket-35
+[2024-12-23T19:49:02.953034300] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:02.953034300] - Current Pool Size: 15
+[2024-12-23T19:49:02.955036600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:02.955036600] - Current Pool Size: 15
+[2024-12-23T19:49:02.956241200] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:02.956241200] - Current Pool Size: 15
+[2024-12-23T19:49:05.959395200] - Ticket: 20 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:05.959395200] - Purchased By Customer0
+[2024-12-23T19:49:05.960393600] - Revenue Earned: 20000.0
+[2024-12-23T19:49:05.965396100] - Ticket 35 Added for I Love Unatoo
+[2024-12-23T19:49:05.968395400] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:49:05.969401500] - Generated Ticket: Ticket-36
+[2024-12-23T19:49:05.971402400] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:05.972397900] - Current Pool Size: 15
+[2024-12-23T19:49:05.973408] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:05.973408] - Current Pool Size: 15
+[2024-12-23T19:49:05.974408100] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:05.974408100] - Current Pool Size: 15
+[2024-12-23T19:49:08.966636400] - Ticket: 21 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:08.966636400] - Purchased By Customer0
+[2024-12-23T19:49:08.966636400] - Revenue Earned: 21000.0
+[2024-12-23T19:49:08.972643400] - Ticket 36 Added for I Love Unatoo
+[2024-12-23T19:49:08.975507] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:49:08.976506700] - Generated Ticket: Ticket-37
+[2024-12-23T19:49:08.977507100] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:08.977507100] - Current Pool Size: 15
+[2024-12-23T19:49:08.978508500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:08.978508500] - Current Pool Size: 15
+[2024-12-23T19:49:08.979893400] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:08.979893400] - Current Pool Size: 15
+[2024-12-23T19:49:11.975716] - Ticket: 22 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:11.976724600] - Purchased By Customer0
+[2024-12-23T19:49:11.976724600] - Revenue Earned: 22000.0
+[2024-12-23T19:49:11.980816300] - Ticket 37 Added for I Love Unatoo
+[2024-12-23T19:49:11.982715800] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:49:11.982715800] - Generated Ticket: Ticket-38
+[2024-12-23T19:49:11.983715800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:11.983715800] - Current Pool Size: 15
+[2024-12-23T19:49:11.984735100] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:11.985727300] - Current Pool Size: 15
+[2024-12-23T19:49:11.986781300] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:11.986781300] - Current Pool Size: 15
+[2024-12-23T19:49:14.986364400] - Ticket: 23 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:14.987373900] - Purchased By Customer0
+[2024-12-23T19:49:14.987373900] - Revenue Earned: 23000.0
+[2024-12-23T19:49:14.992375600] - Ticket 38 Added for I Love Unatoo
+[2024-12-23T19:49:14.994270800] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:49:14.994270800] - Generated Ticket: Ticket-39
+[2024-12-23T19:49:14.995270700] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:14.995270700] - Current Pool Size: 15
+[2024-12-23T19:49:14.996270500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:14.996270500] - Current Pool Size: 15
+[2024-12-23T19:49:14.997270700] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:14.997270700] - Current Pool Size: 15
+[2024-12-23T19:49:18.004466700] - Ticket: 24 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:18.004466700] - Purchased By Customer0
+[2024-12-23T19:49:18.005467900] - Revenue Earned: 24000.0
+[2024-12-23T19:49:18.012464300] - Ticket 39 Added for I Love Unatoo
+[2024-12-23T19:49:18.016413900] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:49:18.017463600] - Generated Ticket: Ticket-40
+[2024-12-23T19:49:18.018462800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:18.019459700] - Current Pool Size: 15
+[2024-12-23T19:49:18.020469700] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:18.020469700] - Current Pool Size: 15
+[2024-12-23T19:49:18.021362500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:18.021362500] - Current Pool Size: 15
+[2024-12-23T19:49:21.019207800] - Ticket: 25 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:21.019207800] - Purchased By Customer0
+[2024-12-23T19:49:21.019207800] - Revenue Earned: 25000.0
+[2024-12-23T19:49:21.023205600] - Ticket 40 Added for I Love Unatoo
+[2024-12-23T19:49:21.025207500] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:49:21.025207500] - Generated Ticket: Ticket-41
+[2024-12-23T19:49:21.026206700] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:21.026206700] - Current Pool Size: 15
+[2024-12-23T19:49:21.027205400] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:21.027205400] - Current Pool Size: 15
+[2024-12-23T19:49:21.028207] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:21.028207] - Current Pool Size: 15
+[2024-12-23T19:49:24.024688500] - Ticket: 26 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:24.024688500] - Purchased By Customer0
+[2024-12-23T19:49:24.025719700] - Revenue Earned: 26000.0
+[2024-12-23T19:49:24.026733100] - Ticket 41 Added for I Love Unatoo
+[2024-12-23T19:49:24.029808100] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:49:24.029808100] - Generated Ticket: Ticket-42
+[2024-12-23T19:49:24.031799600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:24.031799600] - Current Pool Size: 15
+[2024-12-23T19:49:24.032765800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:24.033786100] - Current Pool Size: 15
+[2024-12-23T19:49:24.034756] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:24.034756] - Current Pool Size: 15
+[2024-12-23T19:49:27.043950200] - Ticket: 27 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:27.043950200] - Purchased By Customer0
+[2024-12-23T19:49:27.044930300] - Revenue Earned: 27000.0
+[2024-12-23T19:49:27.047930700] - Ticket 42 Added for I Love Unatoo
+[2024-12-23T19:49:27.049948300] - by Vendor: 58Executed By: pool-3-thread-1
+[2024-12-23T19:49:27.050933] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:27.051947900] - Current Pool Size: 15
+[2024-12-23T19:49:27.051947900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:27.052931300] - Current Pool Size: 15
+[2024-12-23T19:49:29.063772500] - Vendor 58 Finished Adding Tickets.
+ Executed by: pool-3-thread-1 Added Count: 40
+[2024-12-23T19:49:30.049420100] - Ticket: 28 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:30.049420100] - Purchased By Customer0
+[2024-12-23T19:49:30.050418900] - Revenue Earned: 28000.0
+[2024-12-23T19:49:30.056428400] - Ticket 18 Added for I Love Unatoo
+[2024-12-23T19:49:30.058429800] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:49:30.058429800] - Generated Ticket: Ticket-43
+[2024-12-23T19:49:30.059469300] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:30.059469300] - Current Pool Size: 15
+[2024-12-23T19:49:30.060434600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:30.060434600] - Current Pool Size: 15
+[2024-12-23T19:49:33.057098300] - Ticket: 29 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:33.057098300] - Purchased By Customer0
+[2024-12-23T19:49:33.058194700] - Revenue Earned: 29000.0
+[2024-12-23T19:49:33.063194800] - Ticket 43 Added for I Love Unatoo
+[2024-12-23T19:49:33.066194300] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:49:33.067214500] - Generated Ticket: Ticket-44
+[2024-12-23T19:49:33.068247900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:33.068247900] - Current Pool Size: 15
+[2024-12-23T19:49:33.069332800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:33.069332800] - Current Pool Size: 15
+[2024-12-23T19:49:36.062128300] - Ticket: 30 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:36.062128300] - Purchased By Customer0
+[2024-12-23T19:49:36.063027400] - Revenue Earned: 30000.0
+[2024-12-23T19:49:36.070548] - Ticket 44 Added for I Love Unatoo
+[2024-12-23T19:49:36.071545200] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:49:36.072648400] - Generated Ticket: Ticket-45
+[2024-12-23T19:49:36.073755900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:36.073755900] - Current Pool Size: 15
+[2024-12-23T19:49:36.074658100] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:36.074658100] - Current Pool Size: 15
+[2024-12-23T19:49:39.077379300] - Ticket: 31 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:39.078392800] - Purchased By Customer0
+[2024-12-23T19:49:39.078392800] - Revenue Earned: 31000.0
+[2024-12-23T19:49:39.168053600] - Ticket 45 Added for I Love Unatoo
+[2024-12-23T19:49:39.169541400] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:49:39.169541400] - Generated Ticket: Ticket-46
+[2024-12-23T19:49:39.170984900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:39.170984900] - Current Pool Size: 15
+[2024-12-23T19:49:39.172028500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:39.173125100] - Current Pool Size: 15
+[2024-12-23T19:49:42.084730900] - Ticket: 32 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:42.084730900] - Purchased By Customer0
+[2024-12-23T19:49:42.085716400] - Revenue Earned: 32000.0
+[2024-12-23T19:49:42.091596200] - Ticket 46 Added for I Love Unatoo
+[2024-12-23T19:49:42.093647900] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:49:42.093647900] - Generated Ticket: Ticket-47
+[2024-12-23T19:49:42.094705] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:42.095644300] - Current Pool Size: 15
+[2024-12-23T19:49:42.096597600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:42.097597700] - Current Pool Size: 15
+[2024-12-23T19:49:45.096832900] - Ticket: 33 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:45.097833400] - Purchased By Customer0
+[2024-12-23T19:49:45.097833400] - Revenue Earned: 33000.0
+[2024-12-23T19:49:45.103378900] - Ticket 47 Added for I Love Unatoo
+[2024-12-23T19:49:45.106400300] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:49:45.106400300] - Generated Ticket: Ticket-48
+[2024-12-23T19:49:45.108382400] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:45.108382400] - Current Pool Size: 15
+[2024-12-23T19:49:45.109379] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:45.109379] - Current Pool Size: 15
+[2024-12-23T19:49:48.109564800] - Ticket: 34 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:48.110562900] - Purchased By Customer0
+[2024-12-23T19:49:48.110562900] - Revenue Earned: 34000.0
+[2024-12-23T19:49:48.117558500] - Ticket 48 Added for I Love Unatoo
+[2024-12-23T19:49:48.120554500] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:49:48.120554500] - Generated Ticket: Ticket-49
+[2024-12-23T19:49:48.121509500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:48.122509200] - Current Pool Size: 15
+[2024-12-23T19:49:48.123556500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:48.123556500] - Current Pool Size: 15
+[2024-12-23T19:49:51.122548] - Ticket: 35 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:51.123442200] - Purchased By Customer21
+[2024-12-23T19:49:51.123442200] - Revenue Earned: 35000.0
+[2024-12-23T19:49:51.129538300] - Ticket 49 Added for I Love Unatoo
+[2024-12-23T19:49:51.132547400] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:49:51.132547400] - Generated Ticket: Ticket-50
+[2024-12-23T19:49:51.134441] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:51.134441] - Current Pool Size: 15
+[2024-12-23T19:49:51.136440200] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:51.136440200] - Current Pool Size: 15
+[2024-12-23T19:49:54.141332] - Ticket: 36 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:54.142331700] - Purchased By Customer21
+[2024-12-23T19:49:54.142331700] - Revenue Earned: 36000.0
+[2024-12-23T19:49:54.146332400] - Ticket 50 Added for I Love Unatoo
+[2024-12-23T19:49:54.148520600] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:49:54.148520600] - Generated Ticket: Ticket-51
+[2024-12-23T19:49:54.149521600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:54.150522900] - Current Pool Size: 15
+[2024-12-23T19:49:54.151524] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:54.151524] - Current Pool Size: 15
+[2024-12-23T19:49:57.159223600] - Ticket: 37 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:49:57.160221100] - Purchased By Customer21
+[2024-12-23T19:49:57.160221100] - Revenue Earned: 37000.0
+[2024-12-23T19:49:57.164222700] - Ticket 51 Added for I Love Unatoo
+[2024-12-23T19:49:57.166221800] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:49:57.166221800] - Generated Ticket: Ticket-52
+[2024-12-23T19:49:57.167222700] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:57.167222700] - Current Pool Size: 15
+[2024-12-23T19:49:57.168225] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:49:57.168225] - Current Pool Size: 15
+[2024-12-23T19:50:00.163939500] - Ticket: 38 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:00.163939500] - Purchased By Customer21
+[2024-12-23T19:50:00.164934300] - Revenue Earned: 38000.0
+[2024-12-23T19:50:00.169082700] - Ticket 52 Added for I Love Unatoo
+[2024-12-23T19:50:00.170089700] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:50:00.171141800] - Generated Ticket: Ticket-53
+[2024-12-23T19:50:00.171141800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:00.171141800] - Current Pool Size: 15
+[2024-12-23T19:50:00.172106] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:00.172106] - Current Pool Size: 15
+[2024-12-23T19:50:03.182603200] - Ticket: 39 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:03.182603200] - Purchased By Customer21
+[2024-12-23T19:50:03.182603200] - Revenue Earned: 39000.0
+[2024-12-23T19:50:03.185597600] - Ticket 53 Added for I Love Unatoo
+[2024-12-23T19:50:03.186597900] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:50:03.186597900] - Generated Ticket: Ticket-54
+[2024-12-23T19:50:03.187601800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:03.187601800] - Current Pool Size: 15
+[2024-12-23T19:50:03.188598300] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:03.188598300] - Current Pool Size: 15
+[2024-12-23T19:50:06.189049400] - Ticket: 40 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:06.189049400] - Purchased By Customer21
+[2024-12-23T19:50:06.189049400] - Revenue Earned: 40000.0
+[2024-12-23T19:50:06.193583600] - Ticket 54 Added for I Love Unatoo
+[2024-12-23T19:50:06.194538700] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:50:06.195586100] - Generated Ticket: Ticket-55
+[2024-12-23T19:50:06.196539600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:06.196539600] - Current Pool Size: 15
+[2024-12-23T19:50:06.197541400] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:06.197541400] - Current Pool Size: 15
+[2024-12-23T19:50:09.203261900] - Ticket: 41 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:09.204271500] - Purchased By Customer25
+[2024-12-23T19:50:09.204271500] - Revenue Earned: 41000.0
+[2024-12-23T19:50:09.208304800] - Ticket 55 Added for I Love Unatoo
+[2024-12-23T19:50:09.217687900] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:50:09.217687900] - Generated Ticket: Ticket-56
+[2024-12-23T19:50:09.220692] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:09.220692] - Current Pool Size: 15
+[2024-12-23T19:50:09.221688500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:09.222692700] - Current Pool Size: 15
+[2024-12-23T19:50:12.222811700] - Ticket: 42 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:12.223810] - Purchased By Customer29
+[2024-12-23T19:50:12.223810] - Revenue Earned: 42000.0
+[2024-12-23T19:50:12.228933800] - Ticket 56 Added for I Love Unatoo
+[2024-12-23T19:50:12.230937300] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:50:12.230937300] - Generated Ticket: Ticket-57
+[2024-12-23T19:50:12.231978600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:12.233003500] - Current Pool Size: 15
+[2024-12-23T19:50:12.235005200] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:12.235005200] - Current Pool Size: 15
+[2024-12-23T19:50:15.229055100] - Ticket: 18 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:15.229976900] - Purchased By Customer29
+[2024-12-23T19:50:15.229976900] - Revenue Earned: 18000.0
+[2024-12-23T19:50:15.234205700] - Ticket 57 Added for I Love Unatoo
+[2024-12-23T19:50:15.236224700] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:50:15.236224700] - Generated Ticket: Ticket-58
+[2024-12-23T19:50:15.237229400] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:15.237229400] - Current Pool Size: 15
+[2024-12-23T19:50:15.238233400] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:15.238233400] - Current Pool Size: 15
+[2024-12-23T19:50:18.245604500] - Ticket: 43 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:18.245604500] - Purchased By Customer29
+[2024-12-23T19:50:18.245604500] - Revenue Earned: 43000.0
+[2024-12-23T19:50:18.249598300] - Ticket 58 Added for I Love Unatoo
+[2024-12-23T19:50:18.251598700] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:50:18.251598700] - Generated Ticket: Ticket-59
+[2024-12-23T19:50:18.251598700] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:18.252599200] - Current Pool Size: 15
+[2024-12-23T19:50:18.252599200] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:18.252599200] - Current Pool Size: 15
+[2024-12-23T19:50:21.250007500] - Ticket: 44 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:21.250007500] - Purchased By Customer29
+[2024-12-23T19:50:21.250007500] - Revenue Earned: 44000.0
+[2024-12-23T19:50:21.255124500] - Ticket 59 Added for I Love Unatoo
+[2024-12-23T19:50:21.257118100] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:50:21.257118100] - Generated Ticket: Ticket-60
+[2024-12-23T19:50:21.258056300] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:21.258056300] - Current Pool Size: 15
+[2024-12-23T19:50:21.258056300] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:21.258056300] - Current Pool Size: 15
+[2024-12-23T19:50:24.263649400] - Ticket: 45 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:24.263649400] - Purchased By Customer26
+[2024-12-23T19:50:24.263649400] - Revenue Earned: 45000.0
+[2024-12-23T19:50:24.267664200] - Ticket 60 Added for I Love Unatoo
+[2024-12-23T19:50:24.269649500] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:50:24.269649500] - Generated Ticket: Ticket-61
+[2024-12-23T19:50:24.270155800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:24.270155800] - Current Pool Size: 15
+[2024-12-23T19:50:24.271163500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:24.271163500] - Current Pool Size: 15
+[2024-12-23T19:50:27.279024100] - Ticket: 46 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:27.279024100] - Purchased By Customer28
+[2024-12-23T19:50:27.280022] - Revenue Earned: 46000.0
+[2024-12-23T19:50:27.284024700] - Ticket 61 Added for I Love Unatoo
+[2024-12-23T19:50:27.286023500] - by Vendor: 60Executed By: pool-3-thread-3
+[2024-12-23T19:50:27.286023500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:27.287124200] - Current Pool Size: 15
+[2024-12-23T19:50:29.298248500] - Vendor 60 Finished Adding Tickets.
+ Executed by: pool-3-thread-3 Added Count: 20
+[2024-12-23T19:50:30.298792100] - Ticket: 47 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:30.298792100] - Purchased By Customer28
+[2024-12-23T19:50:30.299812100] - Revenue Earned: 47000.0
+[2024-12-23T19:50:30.303763200] - Ticket 19 Added for I Love Unatoo
+[2024-12-23T19:50:30.305706700] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:50:30.305706700] - Generated Ticket: Ticket-62
+[2024-12-23T19:50:30.305706700] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:30.306699400] - Current Pool Size: 15
+[2024-12-23T19:50:33.315430600] - Ticket: 48 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:33.315430600] - Purchased By Customer28
+[2024-12-23T19:50:33.316440800] - Revenue Earned: 48000.0
+[2024-12-23T19:50:33.319765300] - Ticket 62 Added for I Love Unatoo
+[2024-12-23T19:50:33.321005700] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:50:33.322023] - Generated Ticket: Ticket-63
+[2024-12-23T19:50:33.322023] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:33.322023] - Current Pool Size: 15
+[2024-12-23T19:50:36.332882200] - Ticket: 49 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:36.332882200] - Purchased By Customer28
+[2024-12-23T19:50:36.332882200] - Revenue Earned: 49000.0
+[2024-12-23T19:50:36.337880700] - Ticket 63 Added for I Love Unatoo
+[2024-12-23T19:50:36.339837200] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:50:36.340839800] - Generated Ticket: Ticket-64
+[2024-12-23T19:50:36.340839800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:36.341869500] - Current Pool Size: 15
+[2024-12-23T19:50:39.344281600] - Ticket: 50 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:39.344281600] - Purchased By Customer28
+[2024-12-23T19:50:39.344281600] - Revenue Earned: 50000.0
+[2024-12-23T19:50:39.348280200] - Ticket 64 Added for I Love Unatoo
+[2024-12-23T19:50:39.349280100] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:50:39.349280100] - Generated Ticket: Ticket-65
+[2024-12-23T19:50:39.350333900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:39.350333900] - Current Pool Size: 15
+[2024-12-23T19:50:42.349007700] - Ticket: 51 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:42.350001700] - Purchased By Customer28
+[2024-12-23T19:50:42.350001700] - Revenue Earned: 51000.0
+[2024-12-23T19:50:42.354000900] - Ticket 65 Added for I Love Unatoo
+[2024-12-23T19:50:42.356001600] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:50:42.356001600] - Generated Ticket: Ticket-66
+[2024-12-23T19:50:42.356001600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:42.356001600] - Current Pool Size: 15
+[2024-12-23T19:50:45.367609300] - Ticket: 52 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:45.368609200] - Purchased By Customer27
+[2024-12-23T19:50:45.368609200] - Revenue Earned: 52000.0
+[2024-12-23T19:50:45.370609200] - Ticket 66 Added for I Love Unatoo
+[2024-12-23T19:50:45.372608200] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:50:45.372608200] - Generated Ticket: Ticket-67
+[2024-12-23T19:50:45.373601800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:45.373601800] - Current Pool Size: 15
+[2024-12-23T19:50:48.381399900] - Ticket: 53 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:48.382453200] - Purchased By Customer27
+[2024-12-23T19:50:48.382453200] - Revenue Earned: 53000.0
+[2024-12-23T19:50:48.386390200] - Ticket 67 Added for I Love Unatoo
+[2024-12-23T19:50:48.387598900] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:50:48.387598900] - Generated Ticket: Ticket-68
+[2024-12-23T19:50:48.387598900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:48.388647700] - Current Pool Size: 15
+[2024-12-23T19:50:51.394959100] - Ticket: 54 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:51.394959100] - Purchased By Customer27
+[2024-12-23T19:50:51.394959100] - Revenue Earned: 54000.0
+[2024-12-23T19:50:51.399088100] - Ticket 68 Added for I Love Unatoo
+[2024-12-23T19:50:51.401067900] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:50:51.401067900] - Generated Ticket: Ticket-69
+[2024-12-23T19:50:51.402071] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:51.402071] - Current Pool Size: 15
+[2024-12-23T19:50:54.401659100] - Ticket: 55 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:54.401659100] - Purchased By Customer27
+[2024-12-23T19:50:54.401659100] - Revenue Earned: 55000.0
+[2024-12-23T19:50:54.407626700] - Ticket 69 Added for I Love Unatoo
+[2024-12-23T19:50:54.409655100] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:50:54.409655100] - Generated Ticket: Ticket-70
+[2024-12-23T19:50:54.410645200] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:54.410645200] - Current Pool Size: 15
+[2024-12-23T19:50:57.407265200] - Ticket: 56 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:50:57.407265200] - Purchased By Customer27
+[2024-12-23T19:50:57.408275400] - Revenue Earned: 56000.0
+[2024-12-23T19:50:57.412317600] - Ticket 70 Added for I Love Unatoo
+[2024-12-23T19:50:57.414274500] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:50:57.414274500] - Generated Ticket: Ticket-71
+[2024-12-23T19:50:57.414274500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:50:57.414274500] - Current Pool Size: 15
+[2024-12-23T19:51:00.415301] - Ticket: 57 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:00.415301] - Purchased By Customer27
+[2024-12-23T19:51:00.415301] - Revenue Earned: 57000.0
+[2024-12-23T19:51:00.419301100] - Ticket 71 Added for I Love Unatoo
+[2024-12-23T19:51:00.420300400] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:00.420300400] - Generated Ticket: Ticket-72
+[2024-12-23T19:51:00.421303] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:00.421303] - Current Pool Size: 15
+[2024-12-23T19:51:03.421788800] - Ticket: 58 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:03.421788800] - Purchased By Customer24
+[2024-12-23T19:51:03.421788800] - Revenue Earned: 58000.0
+[2024-12-23T19:51:03.425793100] - Ticket 72 Added for I Love Unatoo
+[2024-12-23T19:51:03.426780400] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:03.427762300] - Generated Ticket: Ticket-73
+[2024-12-23T19:51:03.427762300] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:03.427762300] - Current Pool Size: 15
+[2024-12-23T19:51:06.430956200] - Ticket: 59 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:06.431977500] - Purchased By Customer24
+[2024-12-23T19:51:06.431977500] - Revenue Earned: 59000.0
+[2024-12-23T19:51:06.435866600] - Ticket 73 Added for I Love Unatoo
+[2024-12-23T19:51:06.437971700] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:06.437971700] - Generated Ticket: Ticket-74
+[2024-12-23T19:51:06.437971700] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:06.437971700] - Current Pool Size: 15
+[2024-12-23T19:51:09.451514700] - Ticket: 60 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:09.451514700] - Purchased By Customer24
+[2024-12-23T19:51:09.452513200] - Revenue Earned: 60000.0
+[2024-12-23T19:51:09.456520] - Ticket 74 Added for I Love Unatoo
+[2024-12-23T19:51:09.458515600] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:09.458515600] - Generated Ticket: Ticket-75
+[2024-12-23T19:51:09.459515400] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:09.459515400] - Current Pool Size: 15
+[2024-12-23T19:51:12.464862500] - Ticket: 61 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:12.464862500] - Purchased By Customer24
+[2024-12-23T19:51:12.464862500] - Revenue Earned: 61000.0
+[2024-12-23T19:51:12.466862700] - Ticket 75 Added for I Love Unatoo
+[2024-12-23T19:51:12.467860700] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:12.468867400] - Generated Ticket: Ticket-76
+[2024-12-23T19:51:12.468867400] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:12.469844700] - Current Pool Size: 15
+[2024-12-23T19:51:15.471750] - Ticket: 19 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:15.472817300] - Purchased By Customer24
+[2024-12-23T19:51:15.472817300] - Revenue Earned: 19000.0
+[2024-12-23T19:51:15.476740900] - Ticket 76 Added for I Love Unatoo
+[2024-12-23T19:51:15.477735] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:15.477735] - Generated Ticket: Ticket-77
+[2024-12-23T19:51:15.477735] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:15.478744900] - Current Pool Size: 15
+[2024-12-23T19:51:18.479192300] - Ticket: 62 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:18.480182900] - Purchased By Customer23
+[2024-12-23T19:51:18.480182900] - Revenue Earned: 62000.0
+[2024-12-23T19:51:18.484481600] - Ticket 77 Added for I Love Unatoo
+[2024-12-23T19:51:18.486488100] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:18.486488100] - Generated Ticket: Ticket-78
+[2024-12-23T19:51:18.487485800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:18.487485800] - Current Pool Size: 15
+[2024-12-23T19:51:21.496330400] - Ticket: 63 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:21.496330400] - Purchased By Customer22
+[2024-12-23T19:51:21.496330400] - Revenue Earned: 63000.0
+[2024-12-23T19:51:21.501399400] - Ticket 78 Added for I Love Unatoo
+[2024-12-23T19:51:21.503329] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:21.503329] - Generated Ticket: Ticket-79
+[2024-12-23T19:51:21.504328600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:21.504328600] - Current Pool Size: 15
+[2024-12-23T19:51:24.515658] - Ticket: 64 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:24.516627300] - Purchased By Customer22
+[2024-12-23T19:51:24.516627300] - Revenue Earned: 64000.0
+[2024-12-23T19:51:24.520628100] - Ticket 79 Added for I Love Unatoo
+[2024-12-23T19:51:24.522628700] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:24.522628700] - Generated Ticket: Ticket-80
+[2024-12-23T19:51:24.523628100] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:24.523628100] - Current Pool Size: 15
+[2024-12-23T19:51:27.532562400] - Ticket: 65 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:27.532562400] - Purchased By Customer22
+[2024-12-23T19:51:27.532562400] - Revenue Earned: 65000.0
+[2024-12-23T19:51:27.536653] - Ticket 80 Added for I Love Unatoo
+[2024-12-23T19:51:27.538555200] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:27.538555200] - Generated Ticket: Ticket-81
+[2024-12-23T19:51:27.539556900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:27.539556900] - Current Pool Size: 15
+[2024-12-23T19:51:30.538459200] - Ticket: 66 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:30.538459200] - Purchased By Customer22
+[2024-12-23T19:51:30.539415700] - Revenue Earned: 66000.0
+[2024-12-23T19:51:30.543410100] - Ticket 81 Added for I Love Unatoo
+[2024-12-23T19:51:30.545410600] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:30.545410600] - Generated Ticket: Ticket-82
+[2024-12-23T19:51:30.546467200] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:30.546467200] - Current Pool Size: 15
+[2024-12-23T19:51:33.550274600] - Ticket: 67 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:33.550274600] - Purchased By Customer19
+[2024-12-23T19:51:33.551264400] - Revenue Earned: 67000.0
+[2024-12-23T19:51:33.555363200] - Ticket 82 Added for I Love Unatoo
+[2024-12-23T19:51:33.557362500] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:33.557362500] - Generated Ticket: Ticket-83
+[2024-12-23T19:51:33.557362500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:33.558372800] - Current Pool Size: 15
+[2024-12-23T19:51:36.568048500] - Ticket: 68 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:36.568048500] - Purchased By Customer19
+[2024-12-23T19:51:36.568048500] - Revenue Earned: 68000.0
+[2024-12-23T19:51:36.573052500] - Ticket 83 Added for I Love Unatoo
+[2024-12-23T19:51:36.575048800] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:36.575048800] - Generated Ticket: Ticket-84
+[2024-12-23T19:51:36.575048800] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:36.575048800] - Current Pool Size: 15
+[2024-12-23T19:51:39.581724600] - Ticket: 69 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:39.581724600] - Purchased By Customer19
+[2024-12-23T19:51:39.581724600] - Revenue Earned: 69000.0
+[2024-12-23T19:51:39.584802800] - Ticket 84 Added for I Love Unatoo
+[2024-12-23T19:51:39.586945700] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:39.586945700] - Generated Ticket: Ticket-85
+[2024-12-23T19:51:39.587955900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:39.587955900] - Current Pool Size: 15
+[2024-12-23T19:51:42.602531200] - Ticket: 70 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:42.602531200] - Purchased By Customer19
+[2024-12-23T19:51:42.603529200] - Revenue Earned: 70000.0
+[2024-12-23T19:51:42.607035100] - Ticket 85 Added for I Love Unatoo
+[2024-12-23T19:51:42.609043100] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:42.609043100] - Generated Ticket: Ticket-86
+[2024-12-23T19:51:42.610048500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:42.610048500] - Current Pool Size: 15
+[2024-12-23T19:51:45.615821900] - Ticket: 71 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:45.615821900] - Purchased By Customer19
+[2024-12-23T19:51:45.615821900] - Revenue Earned: 71000.0
+[2024-12-23T19:51:45.619167200] - Ticket 86 Added for I Love Unatoo
+[2024-12-23T19:51:45.620647400] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:45.620647400] - Generated Ticket: Ticket-87
+[2024-12-23T19:51:45.621665300] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:45.621665300] - Current Pool Size: 15
+[2024-12-23T19:51:48.626827700] - Ticket: 72 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:48.626827700] - Purchased By Customer19
+[2024-12-23T19:51:48.626827700] - Revenue Earned: 72000.0
+[2024-12-23T19:51:48.629816300] - Ticket 87 Added for I Love Unatoo
+[2024-12-23T19:51:48.631815500] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:48.631815500] - Generated Ticket: Ticket-88
+[2024-12-23T19:51:48.632814200] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:48.632814200] - Current Pool Size: 15
+[2024-12-23T19:51:51.636741] - Ticket: 73 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:51.636741] - Purchased By Customer19
+[2024-12-23T19:51:51.636741] - Revenue Earned: 73000.0
+[2024-12-23T19:51:51.641729200] - Ticket 88 Added for I Love Unatoo
+[2024-12-23T19:51:51.643758900] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:51.643758900] - Generated Ticket: Ticket-89
+[2024-12-23T19:51:51.643758900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:51.644823200] - Current Pool Size: 15
+[2024-12-23T19:51:54.648299300] - Ticket: 74 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:54.648299300] - Purchased By Customer20
+[2024-12-23T19:51:54.648299300] - Revenue Earned: 74000.0
+[2024-12-23T19:51:54.653473] - Ticket 89 Added for I Love Unatoo
+[2024-12-23T19:51:54.654268400] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:54.654268400] - Generated Ticket: Ticket-90
+[2024-12-23T19:51:54.654268400] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:54.655301800] - Current Pool Size: 15
+[2024-12-23T19:51:57.662939900] - Ticket: 75 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:51:57.662939900] - Purchased By Customer20
+[2024-12-23T19:51:57.662939900] - Revenue Earned: 75000.0
+[2024-12-23T19:51:57.666925600] - Ticket 90 Added for I Love Unatoo
+[2024-12-23T19:51:57.668965800] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:51:57.668965800] - Generated Ticket: Ticket-91
+[2024-12-23T19:51:57.669975100] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:51:57.669975100] - Current Pool Size: 15
+[2024-12-23T19:52:00.673558700] - Ticket: 76 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:00.673558700] - Purchased By Customer20
+[2024-12-23T19:52:00.673558700] - Revenue Earned: 76000.0
+[2024-12-23T19:52:00.676561700] - Ticket 91 Added for I Love Unatoo
+[2024-12-23T19:52:00.677555700] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:52:00.677555700] - Generated Ticket: Ticket-92
+[2024-12-23T19:52:00.678557600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:52:00.678557600] - Current Pool Size: 15
+[2024-12-23T19:52:03.689580] - Ticket: 77 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:03.689580] - Purchased By Customer20
+[2024-12-23T19:52:03.689580] - Revenue Earned: 77000.0
+[2024-12-23T19:52:03.693570900] - Ticket 92 Added for I Love Unatoo
+[2024-12-23T19:52:03.694569400] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:52:03.694569400] - Generated Ticket: Ticket-93
+[2024-12-23T19:52:03.695566900] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:52:03.695566900] - Current Pool Size: 15
+[2024-12-23T19:52:06.736547100] - Ticket: 78 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:06.736547100] - Purchased By Customer20
+[2024-12-23T19:52:06.737557100] - Revenue Earned: 78000.0
+[2024-12-23T19:52:06.740555900] - Ticket 93 Added for I Love Unatoo
+[2024-12-23T19:52:06.741564] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:52:06.741564] - Generated Ticket: Ticket-94
+[2024-12-23T19:52:06.742564600] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:52:06.742564600] - Current Pool Size: 15
+[2024-12-23T19:52:09.756366700] - Ticket: 79 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:09.756366700] - Purchased By Customer15
+[2024-12-23T19:52:09.756366700] - Revenue Earned: 79000.0
+[2024-12-23T19:52:09.760163600] - Ticket 94 Added for I Love Unatoo
+[2024-12-23T19:52:09.761075100] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:52:09.762066700] - Generated Ticket: Ticket-95
+[2024-12-23T19:52:09.762066700] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:52:09.762066700] - Current Pool Size: 15
+[2024-12-23T19:52:12.774432100] - Ticket: 80 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:12.774432100] - Purchased By Customer15
+[2024-12-23T19:52:12.775432100] - Revenue Earned: 80000.0
+[2024-12-23T19:52:12.778432] - Ticket 95 Added for I Love Unatoo
+[2024-12-23T19:52:12.780432400] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:52:12.781432500] - Generated Ticket: Ticket-96
+[2024-12-23T19:52:12.781432500] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:52:12.781432500] - Current Pool Size: 15
+[2024-12-23T19:52:15.782979800] - Ticket: 81 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:15.782979800] - Purchased By Customer15
+[2024-12-23T19:52:15.782979800] - Revenue Earned: 81000.0
+[2024-12-23T19:52:15.788044200] - Ticket 96 Added for I Love Unatoo
+[2024-12-23T19:52:15.789021700] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:52:15.789980200] - Generated Ticket: Ticket-97
+[2024-12-23T19:52:15.789980200] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:52:15.789980200] - Current Pool Size: 15
+[2024-12-23T19:52:18.803571200] - Ticket: 82 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:18.803571200] - Purchased By Customer15
+[2024-12-23T19:52:18.803571200] - Revenue Earned: 82000.0
+[2024-12-23T19:52:18.807950300] - Ticket 97 Added for I Love Unatoo
+[2024-12-23T19:52:18.809977500] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:52:18.809977500] - Generated Ticket: Ticket-98
+[2024-12-23T19:52:18.810985] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:52:18.810985] - Current Pool Size: 15
+[2024-12-23T19:52:21.822489500] - Ticket: 83 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:21.823486] - Purchased By Customer17
+[2024-12-23T19:52:21.823486] - Revenue Earned: 83000.0
+[2024-12-23T19:52:21.827485600] - Ticket 98 Added for I Love Unatoo
+[2024-12-23T19:52:21.829486100] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:52:21.829486100] - Generated Ticket: Ticket-99
+[2024-12-23T19:52:21.830485200] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:52:21.830485200] - Current Pool Size: 15
+[2024-12-23T19:52:24.830999400] - Ticket: 84 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:24.830999400] - Purchased By Customer17
+[2024-12-23T19:52:24.830999400] - Revenue Earned: 84000.0
+[2024-12-23T19:52:24.834910700] - Ticket 99 Added for I Love Unatoo
+[2024-12-23T19:52:24.836889600] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:52:24.836889600] - Generated Ticket: Ticket-100
+[2024-12-23T19:52:24.837889200] - Ticket Pool Capacity Reached. Waiting to release more tickets...
+[2024-12-23T19:52:24.837889200] - Current Pool Size: 15
+[2024-12-23T19:52:27.837192200] - Ticket: 85 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:27.837192200] - Purchased By Customer17
+[2024-12-23T19:52:27.838148200] - Revenue Earned: 85000.0
+[2024-12-23T19:52:27.846146300] - Ticket 100 Added for I Love Unatoo
+[2024-12-23T19:52:27.848252500] - by Vendor: 59Executed By: pool-3-thread-2
+[2024-12-23T19:52:29.850558200] - Vendor 59 Finished Adding Tickets.
+ Executed by: pool-3-thread-2 Added Count: 40
+[2024-12-23T19:52:30.849921] - Ticket: 86 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:30.850920400] - Purchased By Customer17
+[2024-12-23T19:52:30.850920400] - Revenue Earned: 86000.0
+[2024-12-23T19:52:33.861837800] - Ticket: 87 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:33.861837800] - Purchased By Customer17
+[2024-12-23T19:52:33.862883100] - Revenue Earned: 87000.0
+[2024-12-23T19:52:36.868949100] - Ticket: 88 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:36.869938900] - Purchased By Customer17
+[2024-12-23T19:52:36.869938900] - Revenue Earned: 88000.0
+[2024-12-23T19:52:39.886892] - Ticket: 89 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:39.887888300] - Purchased By Customer18
+[2024-12-23T19:52:39.887888300] - Revenue Earned: 89000.0
+[2024-12-23T19:52:42.896481] - Ticket: 90 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:42.897484200] - Purchased By Customer18
+[2024-12-23T19:52:42.897484200] - Revenue Earned: 90000.0
+[2024-12-23T19:52:45.909422600] - Ticket: 91 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:45.909422600] - Purchased By Customer18
+[2024-12-23T19:52:45.909422600] - Revenue Earned: 91000.0
+[2024-12-23T19:52:48.916233300] - Ticket: 92 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:48.916233300] - Purchased By Customer18
+[2024-12-23T19:52:48.917250200] - Revenue Earned: 92000.0
+[2024-12-23T19:52:51.925695600] - Ticket: 93 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:51.925695600] - Purchased By Customer16
+[2024-12-23T19:52:51.926635500] - Revenue Earned: 93000.0
+[2024-12-23T19:52:54.943396300] - Ticket: 94 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:54.944574600] - Purchased By Customer14
+[2024-12-23T19:52:54.944574600] - Revenue Earned: 94000.0
+[2024-12-23T19:52:57.964376200] - Ticket: 95 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:52:57.965382500] - Purchased By Customer14
+[2024-12-23T19:52:57.965382500] - Revenue Earned: 95000.0
+[2024-12-23T19:53:00.976873300] - Ticket: 96 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:53:00.976873300] - Purchased By Customer14
+[2024-12-23T19:53:00.976873300] - Revenue Earned: 96000.0
+[2024-12-23T19:53:03.984460600] - Ticket: 97 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:53:03.984460600] - Purchased By Customer14
+[2024-12-23T19:53:03.984460600] - Revenue Earned: 97000.0
+[2024-12-23T19:53:06.994492400] - Ticket: 98 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:53:06.995513800] - Purchased By Customer14
+[2024-12-23T19:53:06.995513800] - Revenue Earned: 98000.0
+[2024-12-23T19:53:10.007351300] - Ticket: 99 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:53:10.008350300] - Purchased By Customer14
+[2024-12-23T19:53:10.008350300] - Revenue Earned: 99000.0
+[2024-12-23T19:53:13.013634700] - Ticket: 100 Has Been Purchased for I Love Unatoo
+[2024-12-23T19:53:13.013634700] - Purchased By Customer13
+[2024-12-23T19:53:13.013634700] - Revenue Earned: 100000.0
+[2024-12-23T19:53:16.023454900] - TicketPool is Empty. Customer is Waiting
