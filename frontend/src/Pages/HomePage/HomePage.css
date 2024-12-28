@@ -1,0 +1,57 @@
+/* HomePage Layout */
+.homepage-container {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin-left: 50px; /* Account for Navbar width */
+    padding: 20px;
+    left: 50%;
+}
+
+.homepage-content {
+    display: flex;
+    justify-content: space-between; /* Distribute space between the two sections */
+    align-items: flex-start; /* Align sections at the top */
+    gap: 20px; /* Add spacing between the sections */
+}
+
+/* Add Event Section */
+.add-event-section {
+    flex: 1; /* Allow the section to grow */
+    max-width: 600px; /* Limit the maximum width */
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* View Events Section */
+.view-events-section {
+    flex: 1; /* Allow the section to grow */
+    max-width: 600px; /* Limit the maximum width */
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .homepage-content {
+        flex-direction: column; /* Stack the sections vertically on small screens */
+        align-items: center;
+    }
+
+    .add-event-section, .view-events-section {
+        max-width: 100%; /* Allow full width on smaller screens */
+    }
+}
+
+.welcome {
+    max-width: 600px; /* Limit the maximum width */
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 0 300px; /* Center horizontally */
+    position: relative; /* Ensure it stays in normal flow */
+}
+
+@media (max-width: 768px) {
+    .welcome {
+        margin-left: 0; /* Reset margin for smaller screens */
+    }}
+

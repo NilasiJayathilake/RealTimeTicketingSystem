@@ -1,0 +1,102 @@
+/* View Analytics Layout */
+.view-analytics-container {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+    color: #333;
+    margin-left: 300px;
+}
+
+.view-analytics-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #007bff;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.view-analytics-header h1 {
+    margin: 0;
+}
+
+.control-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.start-button, .stop-button {
+    padding: 10px 15px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+.start-button {
+    background-color: #28a745;
+}
+
+.start-button:hover {
+    background-color: #218838;
+}
+
+.stop-button {
+    background-color: #dc3545;
+}
+
+.stop-button:hover {
+    background-color: #c82333;
+}
+
+.tickets-section {
+    margin-bottom: 20px;
+}
+
+.ticket-info p {
+    margin: 10px 0;
+}
+
+.ticket-info input {
+    margin-left: 10px;
+    width: 60px;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.logs-section {
+    margin-bottom: 20px;
+}
+
+.logs-container {
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+    padding: 15px;
+    border-radius: 5px;
+    height: 200px;
+    overflow-y: auto;
+    font-family: monospace;
+    border: 1px solid #333;
+}
+
+.logs-container p {
+    margin: 5px 0;
+}
+
+.analytics-footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+}
+
+.analytics-footer p {
+    margin: 0;
+}

@@ -1,0 +1,26 @@
+/* ViewConfig.css */
+
+.config-container {
+    position: absolute;
+    top: 70%;
+    left: 30%;
+    width: 40%;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: white; /* Optional: Add background color for better visibility */
+}
+
+.config-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.config-container li {
+    margin-bottom: 10px;
+}
+
+.error-message {
+    color: red;
+    font-weight: bold;
+}

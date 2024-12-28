@@ -1,0 +1,40 @@
+
+.logs-section {
+    padding: 20px;
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: Arial, sans-serif;
+}
+
+.logs-section h2 {
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+
+.logs-container {
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid #333;
+    padding: 10px;
+    background: #1e1e1e;
+    border-radius: 5px;
+}
+.log-item {
+    margin: 5px 0;
+    padding: 5px;
+    background: #252525;
+    border-radius: 3px;
+    color: #cfcfcf;
+}
+
+.log-item:nth-child(odd) {
+    background: #2c2c2c;
+}
+
+.loading, .no-logs {
+    color: #b0b0b0;
+}
+
+.error {
+    color: #ff6b6b;
+}

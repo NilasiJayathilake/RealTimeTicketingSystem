@@ -1,0 +1,87 @@
+/* Container */
+.navbar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+    height: 100vh;
+    background-color: #282c34;
+    color: white;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    position: fixed; /* Ensures the navbar stays fixed on the side */
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+/* Logo */
+.logo {
+    width: 100px;
+    margin-bottom: 100px;
+}
+
+/* Navbar Menu */
+.navbar-menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.navbar-menu li {
+    margin: 10px 0;
+    text-align: center;
+}
+
+.navbar-menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+    display: block;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+/* Active Link */
+.navbar-menu .active a {
+    background-color: #61dafb;
+    color: #282c34;
+}
+
+/* Hover Effect */
+.navbar-menu a:hover {
+    background-color: #404754;
+}
+
+/* Right Section */
+.navbar-right {
+    margin-top: auto;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.navbar-right img {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+
+/* Sign-In Button */
+.sign-in-button {
+    margin-top: 100px;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #282c34;
+    background-color: #f45c15;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.sign-in-button:hover {
+    background-color: #4db3e6;
+}
